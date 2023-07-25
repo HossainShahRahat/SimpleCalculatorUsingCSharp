@@ -1,0 +1,11 @@
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\bin\Debug\Calculator_C_Sharp.exe.config
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\bin\Debug\Calculator_C_Sharp.exe
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\bin\Debug\Calculator_C_Sharp.pdb
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.csproj.AssemblyReference.cache
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.Form1.resources
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.Properties.Resources.resources
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.csproj.GenerateResource.cache
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.exe
+D:\C_Sharp_Practice\Calculator_C_Sharp\Calculator_C_Sharp\obj\Debug\Calculator_C_Sharp.pdb
